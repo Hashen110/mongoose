@@ -31,7 +31,7 @@
     "@babel/core": "7.18.6",
     "@typescript-eslint/eslint-plugin": "5.30.3",
     "@typescript-eslint/parser": "5.30.3",
-    "acquit": "1.2.1",
+    "acquit": "1.3.0",
     "acquit-ignore": "0.2.0",
     "acquit-require": "0.1.1",
     "assert-browserify": "2.0.0",
