@@ -32,7 +32,7 @@
     "@typescript-eslint/eslint-plugin": "5.30.3",
     "@typescript-eslint/parser": "5.30.3",
     "acquit": "1.2.1",
-    "acquit-ignore": "0.2.0",
+    "acquit-ignore": "0.2.1",
     "acquit-require": "0.1.1",
     "assert-browserify": "2.0.0",
     "axios": "0.27.2",
